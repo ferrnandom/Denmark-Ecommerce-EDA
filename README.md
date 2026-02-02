@@ -54,7 +54,7 @@ The initial dataset was **synthetic and "dirty"**, containing inconsistent casin
 ## Strategic Recommendations
 
 1.  **Launch "Pro Bundles"** – Bundle mice and cables with every MacBook sale to increase accessory margins.
-2.  **VIP Loyalty Tier** – Offer exclusive trade-in credits for new flagship releases to the top 40 customers.
+2.  **VIP Loyalty Program** – Give our top 40 customers special trade-in credits whenever a new flagship product is released. This makes it easier for them to upgrade and keeps our most important shoppers happy.
 3.  **Hovedstaden Optimization** – Leverage the 72% geographic concentration to offer localized same-day delivery in the capital region.
 
 ---
@@ -62,7 +62,6 @@ The initial dataset was **synthetic and "dirty"**, containing inconsistent casin
 ## Data Limitations
 
 - **Synthetic Origins:** The dataset was generated through **Generative AI** and is not reflective of real-world consumer behavior or actual Danish market trends.
-- **Initial Data Quality:** The raw data was significantly **dirty**, requiring an extensive 7-stage cleaning process to be viable for analysis.
 - **Small Sample Size:** With only 200 unique customers, the statistical significance of segment-level insights is limited.
 
 ---
