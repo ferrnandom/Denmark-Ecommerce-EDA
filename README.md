@@ -12,7 +12,8 @@ This analysis examines the sales performance, customer segmentation, and geograp
 - **Geographic Centralization:** **Region Hovedstaden** is the primary market, commanding a **72.3% market share**.
 
 ---
-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5064470c-fd5b-4493-9aac-b512b9c0b483" />
+---
 ## Business Problem
 
 The platform faces challenges related to inventory dependency and customer churn:
