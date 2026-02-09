@@ -1,6 +1,10 @@
 # Digital Breadcrumbs
 
-> Forensics-udfordring, hvor du efterforsker et databrud ved at spore digitale beviser gennem en kompromitteret arbejdsstation. Afkod skjulte spor, navigér i filsystemet og udtræk metadata for at afsløre angriberens identitet.
+Forensics-udfordring, hvor du efterforsker et databrud ved at spore digitale beviser gennem en kompromitteret arbejdsstation. Afkod skjulte spor, navigér i filsystemet og udtræk metadata for at afsløre angriberens identitet.
+
+---
+
+Forensics challenge where you investigate a data breach by tracing digital evidence through a compromised workstation. Decode hidden clues, navigate the file system, and extract metadata to reveal the attacker's identity.
 
 ## Flag(s)
 
@@ -92,5 +96,6 @@ Easy
 - See the flag in the top left
 
 ## How to run locally
+
 
 > A few lines describing how people can start the challenge locally
